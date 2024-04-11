@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://cdn.discordapp.com/attachments/327939926937042955/1222848072426586234/forest2.png?ex=6617b503&is=66054003&hm=c1a990ab056830f9ab7dca50c617bf7bc3196f0423ed4699af455caac3636a7c&');
+     --background: url('https://cdn.discordapp.com/attachments/327939926937042955/1228051869612642426/forest2.png?ex=662aa36d&is=66182e6d&hm=3fccf6fc1163e9d031395d8e444166d95a1a6761afcc3cfb1af6be2da4bbb817&');
      --activetext-colour: white;
  
      --primary1-colour: red;
@@ -15,7 +15,6 @@
      --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
      --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
      --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
- }
    
  /*
  Theme Owned and Made by VaporousCreeper#9514
